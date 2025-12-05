@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Enlaces (Avanzado)</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <form>
+        <h2>
+            Formulario de Contacto
+        </h2>
+
+        <!--SIMPLE INPUTS-->
+        <fieldset>
+            <legend>INFORMACIÓN BÁSICA</legend>
+            <div class="form_input">
+                <label for="nombre">Nombre Completo:</label>
+                <input type="text" placeholder="Cristian Cruz" id="nombre">
+            </div>
+            <div class="form_input">
+                <label for="correo">Email:</label>
+                <input type="email" placeholder="anonimo2016@gmail.com" id="correo">
+            </div>
+            <div class="form_input">
+                <label for="asunto">Asunto:</label>
+                <input type="email" placeholder="El asunto de tu mensaje" id="asunto">
+            </div>
+        </fieldset>
+
+        <!--SELECT & OPTION-->
+        <div class="form_input">
+            <label>Tipo de usuario:
+                <select name="type-of-user">
+                    <option value="user1">Seguidor/a</option>
+                    <option value="user2">Empresa</option>
+                    <option value="user3">Otros</option>
+                </select>
+            </label>
+        </div>
+
+        <!--DATALIST & OPTION-->
+        <div class="form_input">
+            <label>Referente:
+                <input list="referente" name="referente">
+                <datalist id="referente" name="type-of-user">
+                    <option value="Cristian Cruz">Ing. Sistemas</option>
+                    <option value="Una empresa">C.V.A.</option>
+                    <option value="Un familiar">Me lo recomendó un familiar</option>
+                    <option value="Un amigo">Me lo recomendó un amigo</option>
+                </datalist>
+            </label>
+        </div>
+
+        <!--TEXTAREA-->
+        <div class="form_input">
+            <label for="mensajito">Mensaje:</label>
+            <textarea rows="8" placeholder="Hola Mundo! :D" id="mensajito"></textarea>
+        </div>
+
+        <!--CHECKBOX-->
+        <div class="form_input">
+            <label>Acepto los <a href="terms.html" target="blank">términos y condiciones.</a>
+                <input type="checkbox" class="checkbox">
+            </label>
+        </div>
+    </form>
+</body>
+</html>
