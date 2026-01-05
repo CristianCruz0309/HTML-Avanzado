@@ -1,5 +1,8 @@
 # 🚀 HTML Avanzado | Buenas Prácticas y Web Moderna
 
+![CSS3 Badge](https://img.shields.io/badge/Style-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/Code-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 Repositorio enfocado en **HTML Avanzado**, donde se aplican buenas prácticas, semántica correcta, accesibilidad y funcionalidades modernas del estándar HTML5.
 
 Este proyecto hace parte de mi formación como **Front-End Developer**, fortaleciendo la base estructural de la web antes de avanzar a CSS avanzado y JavaScript.
