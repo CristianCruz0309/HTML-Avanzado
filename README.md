@@ -50,3 +50,20 @@ Cada carpeta contiene ejemplos funcionales usando **HTML5 puro**, enfocados en e
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/CristianCruz0309/HTML-Avanzado.git
+
+## My social network <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+<a href="https://www.linkedin.com/in/cristian-camilo-cruz-gallego/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="https://github.com/CristianCruz0309" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/> 
+</a>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+Credits: [Cristian Cruz](https://github.com/CristianCruz0309)
+<br>
+
+> _"Curiosity is my favorite programming language."_ 💻🦅
